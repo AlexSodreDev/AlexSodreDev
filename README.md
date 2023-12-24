@@ -2,7 +2,7 @@
 
 👦 I'm a **Back-End** developer from **Espirito Santo, Brazil**.
 
-💬 Ask me about **Nodejs, Typescript** or anything code related.
+💬 Ask me about **Nodejs, Typescript, Java, Spring Boot** or anything code related.
 
 🌱 I’m currently learning **Nodejs, AWS, Java**.
 
